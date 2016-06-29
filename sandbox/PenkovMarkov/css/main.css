@@ -1,0 +1,12 @@
+body{
+  background-image: url("../images/background.png");
+  background-repeat: repeat-x;
+}
+
+div{
+  background-color: white;
+}
+
+img{
+  width: 100%;
+}
